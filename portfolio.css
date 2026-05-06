@@ -1,0 +1,125 @@
+
+#head {
+   
+  color: purple;
+  text-align:left;
+  font-size: 36px;
+}
+#head2 {
+   
+ color:purple;
+ text-align:center;
+}
+#head5 {
+   
+   
+ color:purple;
+ text-align:center;
+}
+#head4 {
+  
+ color:purple;
+ text-align:center;
+}
+.downloadCV {
+   background-color:azure; 
+  color:black;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 50px;     
+  cursor: pointer;
+  transition: 0.3s ease;
+  
+}
+
+#aboutBtn  {
+  position: absolute;
+    top: 70px;               
+  right: 320px;             
+  
+  background-color:azure; 
+  color:black;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 50px;     
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 15px;
+}
+#difbutton2  {
+  position: absolute;
+    top: 70px;               
+  right: 220px;             
+  
+  background-color:azure; 
+  color:black;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 50px;     
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 15px;
+}
+#experienceBtn  {
+  position: absolute;
+    top: 70px;               
+  right:100px;             
+  
+  background-color:azure; 
+  color:black;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 50px;     
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 15px;
+}
+
+#difbutton4  {
+  position: absolute;
+    top: 70px;               
+  right:0px;             
+  
+  background-color:azure; 
+  color:black;
+  border: none;
+  padding: 8px 20px;
+  border-radius: 50px;     
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 15px;
+}
+
+#bg {
+    background-image: url("tech2.jpeg");
+    background-size:cover;      
+    background-repeat: no repeat; 
+    background-position: center;  
+    height: 100vh;  
+    border: radius 60px; px;             
+}
+
+.profile-pic img {
+
+  position: absolute;
+  top: 150px;
+  left: 450px;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 4px solid white; 
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
+}
+
+#experience-section {
+    display: none;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#about-section{
+  display: none;
+    margin-top: 20px;
+    padding: 10px;
+}
